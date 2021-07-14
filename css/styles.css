@@ -1,0 +1,17 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+link{
+    text-decoration: none;
+    color: rgb(41, 39, 39) !important;
+}
+
+.container .row{
+    margin-top: 3%;
+    width: 90%;
+}
+
+.margin{
+    margin: 0% 5% 2% 5% !important;
+}
